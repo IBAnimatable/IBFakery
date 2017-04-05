@@ -1,0 +1,22 @@
+PODS:
+  - Fakery (2.0.0)
+  - IBAnimatable (3.1.3)
+  - IBFakery (0.0.1):
+    - Fakery
+
+DEPENDENCIES:
+  - IBAnimatable
+  - IBFakery (from `../../`)
+
+EXTERNAL SOURCES:
+  IBFakery:
+    :path: ../../
+
+SPEC CHECKSUMS:
+  Fakery: 97b99c23937d2e025d9135c75e2b17351ccd5031
+  IBAnimatable: ad640d47659cbbfa4cf88a127fdc663b2ec4c66a
+  IBFakery: 71eb4b4d96bee1c7a62e3c4263db8d40297f6d58
+
+PODFILE CHECKSUM: 64420aa8a58420a338137ed975ced00c7b3571df
+
+COCOAPODS: 1.2.0

@@ -1,0 +1,15 @@
+included:
+    - IBFakeryApp
+
+line_length:
+  warning: 150
+  ignores_comments: true
+file_length: 500
+number_separator:
+  minimum_length: 5
+large_tuple:
+  warning: 3
+
+disabled_rules:
+  - todo
+  - cyclomatic_complexity
